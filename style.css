@@ -1,0 +1,28 @@
+
+.curriculum {
+    background-color: #004900;
+    width:15%;
+    min-width: 300px;
+    height:1024px;
+    float:left;
+    margin-left: -8px;
+    margin-top: -8px;
+}
+.personal_information_estudiante_6xvcb{
+   padding: 250px 0px 0px 42px; 
+}
+.personal_information_estudiante_6xvcb img {
+width: 200px;
+height: 200px;
+object-fit: cover;
+border-radius:50%; 
+position: relative;
+}    
+.name_surname p {
+position: absolute;
+top: 50px;
+font-family: "lovelo",sans-serif;
+font-weight: 900;
+font-size: 40px;
+color: white;
+}
